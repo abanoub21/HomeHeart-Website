@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4O2LuhcDGshF0Pq5Ks5+SOQjAq+PipsAFOmUTColOWIp7J8QO23DLS/gRGzaVxjUWlTHipdx5Bqju4MASDZB6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Home&Heart\\Home&Heart.Domain\\Home&Heart.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.36\\microsoft.entityframeworkcore.abstractions.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

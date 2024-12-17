@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|c:\\users\\user\\source\\repos\\home\u0026heart\\home\u0026heart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\services\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\services\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\services\\categoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\services\\categoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.infrastructure\\asyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:home\u0026heart.infrastructure\\asyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.infrastructure\\homecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:home\u0026heart.infrastructure\\homecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\automapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\automapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\services\\companyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\services\\companyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.domain\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|solutionrelative:home\u0026heart.domain\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|solutionrelative:home\u0026heart.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\contracts\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\contracts\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|solutionrelative:home\u0026heart.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\contracts\\icategoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\contracts\\icategoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\contracts\\icompanyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\contracts\\icompanyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\contracts\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\contracts\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\home\u0026heart.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\home\u0026heart.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.domain\\home\u0026heart.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}|Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj|solutionrelative:home\u0026heart.domain\\home\u0026heart.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.infrastructure\\home\u0026heart.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:home\u0026heart.infrastructure\\home\u0026heart.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:34:29.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:39:29.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:39:43.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\ProductAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\ProductAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\ProductAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Services\\ProductAppService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:59:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\CategoryAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\CategoryAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\CategoryAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Services\\CategoryAppService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:59:32.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\AsyncRepository.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\AsyncRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\AsyncRepository.cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\AsyncRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:44:56.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Program.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Program.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:50:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:42:55.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\AutoMapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\AutoMapper\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\AutoMapper\\MapperProfile.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\AutoMapper\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:11:13.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\HomeContext.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\HomeContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\HomeContext.cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\HomeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:04:12.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:39:56.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241211012150_testAfterAppsettingsjson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:21:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\appsettings.json",
+              "RelativeToolTip": "Home\u0026Heart.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T18:02:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\CompanyAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\CompanyAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\CompanyAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Services\\CompanyAppService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:59:05.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Product.cs",
+              "RelativeToolTip": "Home\u0026Heart.Domain\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:15:58.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Company.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Company.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Company.cs",
+              "RelativeToolTip": "Home\u0026Heart.Domain\\Company.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:11:13.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:40:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241209011654_editToAllowNullInCompanyTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:16:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241208235051_createDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:50:51.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IProductAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\IProductAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IProductAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Contracts\\IProductAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:58:10.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Category.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Category.cs",
+              "RelativeToolTip": "Home\u0026Heart.Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:08:36.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241207234542_AddImageAndAndcataloguee..cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:45:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241207232704_AddImageAndAndcatalogue..cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:27:04.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241207232557_removeImageAndcatalogue..cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:25:57.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoryAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\ICategoryAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\ICategoryAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\ICategoryAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Contracts\\ICategoryAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:57:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICompanyAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\ICompanyAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\ICompanyAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\ICompanyAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Contracts\\ICompanyAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:57:03.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IAsyncRepository.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Contracts\\IAsyncRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:43:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Home\u0026Heart.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T15:39:14.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Home\u0026Heart.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj",
+              "RelativeToolTip": "Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T15:00:54.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Home\u0026Heart.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj",
+              "RelativeToolTip": "Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T14:49:58.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
