@@ -9,6 +9,7 @@
       "Home&Heart.API/1.0.0": {
         "dependencies": {
           "Home&Heart.Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.36",
           "Microsoft.EntityFrameworkCore.Design": "6.0.36",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -32,6 +33,48 @@
           "lib/netstandard2.0/Humanizer.dll": {
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.36": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.36.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "assemblyVersion": "6.0.36.0",
+            "fileVersion": "6.0.3624.51604"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/6.0.36": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51604"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.36": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "6.0.36"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51604"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.36": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.36",
+          "Microsoft.Extensions.Identity.Stores": "6.0.36"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "assemblyVersion": "6.0.36.0",
+            "fileVersion": "6.0.3624.51604"
           }
         }
       },
@@ -209,6 +252,32 @@
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {},
+      "Microsoft.Extensions.Identity.Core/6.0.36": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "6.0.36",
+          "Microsoft.Extensions.Logging": "6.0.1",
+          "Microsoft.Extensions.Options": "6.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Identity.Core.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51604"
+          }
+        }
+      },
+      "Microsoft.Extensions.Identity.Stores/6.0.36": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "6.0.1",
+          "Microsoft.Extensions.Identity.Core": "6.0.36",
+          "Microsoft.Extensions.Logging": "6.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Identity.Stores.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51604"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.1": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "6.0.2",
@@ -547,7 +616,8 @@
       "Home&Heart.Application/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "Home&Heart.Domain": "1.0.0"
+          "Home&Heart.Domain": "1.0.0",
+          "Home&Heart.Identity": "1.0.0"
         },
         "runtime": {
           "Home&Heart.Application.dll": {}
@@ -559,6 +629,15 @@
         },
         "runtime": {
           "Home&Heart.Domain.dll": {}
+        }
+      },
+      "Home&Heart.Identity/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.36",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.36"
+        },
+        "runtime": {
+          "Home&Heart.Identity.dll": {}
         }
       },
       "Home&Heart.Infrastructure/1.0.0": {
@@ -592,6 +671,34 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vGDqvZUehbtKdoUzVO32N0Lxon+1piGO6qFnA8FNXEzWhrLN5uum8ZyhWgrWYSA4b6JuCBJ/wAC7rV38wBvLew==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.36",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.Internal/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VKG4S0q9FD2ciaiGjj5CU4BcvBAlbBSDpfsdHhwZOD5CmQm40qTNZCWZZOPgmBnZ0hwYjLnyYtg8BDXTPOPdNw==",
+      "path": "microsoft.aspnetcore.cryptography.internal/6.0.36",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-us+xlkbdZlB/hl2XTxvk2QOPVUzj++WW+zPEwsXIBfkZ23pMFOHlMbhVqKRe3lUphM8vJS4ZH0m4Xvgm0Qdi4Q==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/6.0.36",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BUAbtYxXEsQ0qQe59Mpm9h2dj1xCAGeD0yOt96ZVrc5b4eMUu5wuYTBrk0gjDg9UqSg5lLtyX9nI9rHQYAhI3g==",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/6.0.36",
+      "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.6.0.36.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
@@ -697,6 +804,20 @@
       "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Core/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jv8z16jfKKRXIGmZq8NIhbPv4/mmeNupzZgQmuAGWZSiL1h2EhYmQkJntLo7GZ97biC9mP4baCrf4Cz4Ui0Rvw==",
+      "path": "microsoft.extensions.identity.core/6.0.36",
+      "hashPath": "microsoft.extensions.identity.core.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Stores/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LjjM5aBHjyyZCfYKHHI/J2SC3C3TKrEx+STTBZoO1UKKUpvKM83IcCyfXeomCqAQ4p7d8MEmCmbMBjSGw8r+0A==",
+      "path": "microsoft.extensions.identity.stores/6.0.36",
+      "hashPath": "microsoft.extensions.identity.stores.6.0.36.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/6.0.1": {
       "type": "package",
@@ -928,6 +1049,11 @@
       "sha512": ""
     },
     "Home&Heart.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Home&Heart.Identity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

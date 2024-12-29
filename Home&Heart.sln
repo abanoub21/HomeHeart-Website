@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home&Heart.API", "Home&Heart.API\Home&Heart.API.csproj", "{E957E0CF-51E3-4A4A-A66D-75439C514143}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home&Heart.API", "Home&Heart.API\Home&Heart.API.csproj", "{E957E0CF-51E3-4A4A-A66D-75439C514143}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home&Heart.Domain", "Home&Heart.Domain\Home&Heart.Domain.csproj", "{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home&Heart.Domain", "Home&Heart.Domain\Home&Heart.Domain.csproj", "{FBAA80C3-EB90-4E24-8A8A-FF6CA37CB1B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home&Heart.Infrastructure", "Home&Heart.Infrastructure\Home&Heart.Infrastructure.csproj", "{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home&Heart.Infrastructure", "Home&Heart.Infrastructure\Home&Heart.Infrastructure.csproj", "{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home&Heart.Application", "Home&Heart.Application\Home&Heart.Application.csproj", "{094A8F5C-951C-4483-AF99-142C25C34846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home&Heart.Application", "Home&Heart.Application\Home&Heart.Application.csproj", "{094A8F5C-951C-4483-AF99-142C25C34846}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home&Heart.Tests", "Home&Heart.Tests\Home&Heart.Tests.csproj", "{B7E78934-209C-411D-A840-D413A3DB4C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home&Heart.Identity", "Home&Heart.Identity\Home&Heart.Identity.csproj", "{86F84D32-E916-418A-850D-CF6A0B83E114}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{094A8F5C-951C-4483-AF99-142C25C34846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094A8F5C-951C-4483-AF99-142C25C34846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094A8F5C-951C-4483-AF99-142C25C34846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E78934-209C-411D-A840-D413A3DB4C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E78934-209C-411D-A840-D413A3DB4C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E78934-209C-411D-A840-D413A3DB4C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E78934-209C-411D-A840-D413A3DB4C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F84D32-E916-418A-850D-CF6A0B83E114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F84D32-E916-418A-850D-CF6A0B83E114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F84D32-E916-418A-850D-CF6A0B83E114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F84D32-E916-418A-850D-CF6A0B83E114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

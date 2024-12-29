@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Home&amp;Heart.Domain\Home&amp;Heart.Domain.csproj" />
+    <ProjectReference Include="..\Home&amp;Heart.Identity\Home&amp;Heart.Identity.csproj" />
   </ItemGroup>
 
 </Project>

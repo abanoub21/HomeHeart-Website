@@ -2,12 +2,15 @@ C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Ho
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Home&Heart.Application.dll
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Home&Heart.Application.pdb
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Home&Heart.Domain.dll
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Home&Heart.Identity.dll
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Home&Heart.Domain.pdb
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\bin\Debug\net6.0\Home&Heart.Identity.pdb
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.AssemblyInfo.cs
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.sourcelink.json
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Hea.0C74F637.Up2Date
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\Home&Heart.Application.dll
 C:\Users\user\source\repos\Home&Heart\Home&Heart.Application\obj\Debug\net6.0\refint\Home&Heart.Application.dll

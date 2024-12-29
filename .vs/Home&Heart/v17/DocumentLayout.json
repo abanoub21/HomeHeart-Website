@@ -7,6 +7,66 @@
       "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\services\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\services\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\contracts\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\contracts\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.identity\\migrations\\20241228023519_createadminrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|solutionrelative:home\u0026heart.identity\\migrations\\20241228023519_createadminrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\customtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\customtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.identity\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|solutionrelative:home\u0026heart.identity\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.identity\\migrations\\20241228023519_createadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|solutionrelative:home\u0026heart.identity\\migrations\\20241228023519_createadminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.identity\\home\u0026heart.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86F84D32-E916-418A-850D-CF6A0B83E114}|Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj|solutionrelative:home\u0026heart.identity\\home\u0026heart.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\services\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\services\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,28 +83,8 @@
       "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.infrastructure\\homecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:home\u0026heart.infrastructure\\homecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E957E0CF-51E3-4A4A-A66D-75439C514143}|Home\u0026Heart.API\\Home\u0026Heart.API.csproj|solutionrelative:home\u0026heart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|solutionrelative:home\u0026heart.application\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{094A8F5C-951C-4483-AF99-142C25C34846}|Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\automapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,6 +161,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E07ABCD-A3DF-474B-AEA4-9048655AAB2F}|Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj|solutionrelative:Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Home\u0026Heart\\home\u0026heart.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home\u0026heart.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,35 +174,220 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\UserAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\UserAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\UserAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Services\\UserAppService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAlwE4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:08:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241228023519_createAdminRole.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.Designer.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.Designer.cs",
+              "RelativeToolTip": "Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.Designer.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwDAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:36:24.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\CompanyController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\CompanyController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAeAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:34:29.338Z"
+              "WhenOpened": "2024-12-04T18:34:29.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAANAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:39:29.905Z"
+              "WhenOpened": "2024-12-04T18:39:29.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\appsettings.json",
+              "RelativeToolTip": "Home\u0026Heart.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T18:02:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Program.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Program.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAwH8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:03:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:42:55.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:20:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IUserAppService.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\IUserAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IUserAppService.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Contracts\\IUserAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:44:51.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:46:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\RegistrationDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\RegistrationDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\RegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:05:22.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:07:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomToken.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CustomToken.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\CustomToken.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CustomToken.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\CustomToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:12:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241228023519_createAdminRole.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.cs",
+              "RelativeToolTip": "Home\u0026Heart.Identity\\Migrations\\20241228023519_createAdminRole.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:35:20.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Identity\\IdentityContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\IdentityContext.cs",
+              "RelativeToolTip": "Home\u0026Heart.Identity\\IdentityContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:22:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:39:56.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home\u0026Heart.Identity.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj",
+              "RelativeDocumentMoniker": "Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj",
+              "RelativeToolTip": "Home\u0026Heart.Identity\\Home\u0026Heart.Identity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T02:21:39.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CategoryDto.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\CategoryDto.cs",
@@ -170,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "ProductAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\ProductAppService.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\ProductAppService.cs",
@@ -182,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "CategoryAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\CategoryAppService.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\CategoryAppService.cs",
@@ -194,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "AsyncRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\AsyncRepository.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\AsyncRepository.cs",
@@ -206,32 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Program.cs",
-              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Program.cs",
-              "RelativeToolTip": "Home\u0026Heart.API\\Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:50:15.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Home\u0026Heart.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Home\u0026Heart.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:42:55.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "MapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\AutoMapper\\MapperProfile.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\AutoMapper\\MapperProfile.cs",
@@ -243,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "HomeContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\HomeContext.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\HomeContext.cs",
@@ -255,19 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CompanyDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
-              "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
-              "RelativeToolTip": "Home\u0026Heart.Application\\Dtos\\CompanyDto.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAxwA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:39:56.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "20241211012150_testAfterAppsettingsjson.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241211012150_testAfterAppsettingsjson.cs",
@@ -279,19 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Home\u0026Heart.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.API\\appsettings.json",
-              "RelativeToolTip": "Home\u0026Heart.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T18:02:29.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "CompanyAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Services\\CompanyAppService.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Services\\CompanyAppService.cs",
@@ -303,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Product.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Product.cs",
@@ -315,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Company.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Company.cs",
@@ -327,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Dtos\\ProductDto.cs",
@@ -339,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "20241209011654_editToAllowNullInCompanyTable.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241209011654_editToAllowNullInCompanyTable.cs",
@@ -351,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "20241208235051_createDataBase.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241208235051_createDataBase.cs",
@@ -363,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "IProductAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IProductAppService.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\IProductAppService.cs",
@@ -375,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Category.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Category.cs",
@@ -387,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "20241207234542_AddImageAndAndcataloguee..cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241207234542_AddImageAndAndcataloguee..cs",
@@ -399,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "20241207232704_AddImageAndAndcatalogue..cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241207232704_AddImageAndAndcatalogue..cs",
@@ -411,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "20241207232557_removeImageAndcatalogue..cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Migrations\\20241207232557_removeImageAndcatalogue..cs",
@@ -423,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "ICategoryAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\ICategoryAppService.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\ICategoryAppService.cs",
@@ -435,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "ICompanyAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\ICompanyAppService.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\ICompanyAppService.cs",
@@ -447,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Contracts\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Contracts\\IAsyncRepository.cs",
@@ -459,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Home\u0026Heart.Application.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj",
               "RelativeDocumentMoniker": "Home\u0026Heart.Application\\Home\u0026Heart.Application.csproj",
@@ -471,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "Home\u0026Heart.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Home\u0026Heart.Infrastructure\\Home\u0026Heart.Infrastructure.csproj",
@@ -483,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Home\u0026Heart.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Home\u0026Heart\\Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj",
               "RelativeDocumentMoniker": "Home\u0026Heart.Domain\\Home\u0026Heart.Domain.csproj",

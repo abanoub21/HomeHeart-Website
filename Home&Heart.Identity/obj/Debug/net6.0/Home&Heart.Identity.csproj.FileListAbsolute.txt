@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\bin\Debug\net6.0\Home&Heart.Identity.deps.json
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\bin\Debug\net6.0\Home&Heart.Identity.dll
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\bin\Debug\net6.0\Home&Heart.Identity.pdb
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.AssemblyInfo.cs
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.sourcelink.json
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.dll
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\refint\Home&Heart.Identity.dll
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\Home&Heart.Identity.pdb
+C:\Users\user\source\repos\Home&Heart\Home&Heart.Identity\obj\Debug\net6.0\ref\Home&Heart.Identity.dll

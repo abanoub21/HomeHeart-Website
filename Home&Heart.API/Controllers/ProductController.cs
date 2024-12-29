@@ -1,10 +1,12 @@
 ﻿using Home_Heart.Application.Contracts;
 using Home_Heart.Application.Dtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Home_Heart.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class ProductController : ControllerBase
@@ -30,7 +32,7 @@ namespace Home_Heart.API.Controllers
         {
             return await service.GetProductsByCompanyIdAsync(companyId);
         }
-        [HttpPost]
+        [HttpPost, Authorize]
         [Consumes("application/json")] // Accept JSON requests only
         public async Task<IActionResult> AddProductAsync([FromBody] ProductDto product)
         {

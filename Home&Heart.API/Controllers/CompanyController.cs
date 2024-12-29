@@ -2,9 +2,11 @@
 using Home_Heart.Application.Dtos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Antiforgery;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Home_Heart.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class CompanyController : ControllerBase
@@ -30,7 +32,7 @@ namespace Home_Heart.API.Controllers
         {
             return await service.GetCompaniesByCategoryIdAsync(categoryId);
         }
-        [HttpPost]
+        [HttpPost, Authorize]
         [Consumes("application/json")] // Accept JSON requests only
         public async Task<IActionResult> AddCompanyAsync(CompanyDto company)
         {
